@@ -16,4 +16,6 @@
 
 (global-set-key (kbd "C-c p f") 'counsel-git)
 
+(global-set-key (kbd "C-c a") 'org-agenda)
+
 (provide 'init-keybindings)
